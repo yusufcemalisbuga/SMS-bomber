@@ -1,4 +1,4 @@
-'''Bản quyền: https://www.youtube.com/c/L%C3%AAQuanggMinhhOfficial'''
+
 from time import sleep
 import requests
 import os, sys, requests, random
